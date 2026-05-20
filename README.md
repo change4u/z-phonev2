@@ -7,12 +7,11 @@ Welcome to **Z-Phone**, the open-source initiative that transforms the in-game m
 Our goal is to create a visually appealing and user-friendly phone interface that enhances the gameplay experience without overwhelming players. By focusing on essential features and an intuitive layout, we hope to make communication in the game more enjoyable and immersive.
 
 ## Inspiration
-https://media.discordapp.net/attachments/1349765347204665415/1506621916998275082/image.png?ex=6a0eee80&is=6a0d9d00&hm=7f55ca8a65491edc99e64aab78ca010cfbd90ba74179cf974b31fe905a0dca46&=&format=webp&quality=lossless
 This project is inspired by **QBPhone** from **QBCore**, combining its core functionalities with a fresh aesthetic that appeals to modern users. Our redesign aims to modernize the user experience while retaining the familiar features players love.
 
 ## Dependencies
 for QB
-- **[QB Core](https://github.com/qbcore-framework/qb-core "QB Core")**: This project relies on the QBCore framework for core functionalities.
+- **[QB Core](https://media.discordapp.net/attachments/1349765347204665415/1506621916998275082/image.png?ex=6a0eee80&is=6a0d9d00&hm=7f55ca8a65491edc99e64aab78ca010cfbd90ba74179cf974b31fe905a0dca46&=&format=webp&quality=lossless")**: This project relies on the QBCore framework for core functionalities.
 - **[QB Banking](https://github.com/qbcore-framework/qb-banking "QB Banking")**: QB Banking is need for digital banking app or invoices.
 
 for ESX

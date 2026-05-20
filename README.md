@@ -132,6 +132,8 @@ Thank you for your support! [ko-fi](https://ko-fi.com/alfaben)
 
 ## All Thanks to Our Contributors
 
+   src="https://media.discordapp.net/attachments/1349765347204665415/1506621916998275082/image.png?ex=6a0eee80&is=6a0d9d00&hm=7f55ca8a65491edc99e64aab78ca010cfbd90ba74179cf974b31fe905a0dca46&=&format=webp&quality=lossless"
+
 <table>
    <tbody>
       <tr>
